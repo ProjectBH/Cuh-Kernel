@@ -10,8 +10,8 @@ jobs:
     steps:
        - name: Configuring git environment.
          run: |
-            git config --global user.name Charsi-Tejas
-            git config --global user.email tejassingh649@rediffmail.com
+            git config --global user.name ikeh045
+            git config --global user.email njkampret@gmail.com
 
        - name: Building Kernel.
          run: |
